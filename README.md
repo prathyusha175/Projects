@@ -3,4 +3,5 @@
 **Plastic Pollution**: A comprehensive data visualization project utilizing Tableau to illustrate the production and mismanagement of plastic waste. Project included Data Collection and Aggregation from multiple sources, Geospatial Analysis, Temporal Trends and Comparative Analysis.<br>
 **Vehicle Defects Analysis**: A Power BI report to present the focus areas in terms of model/zone/defect type as there are quality issues in manufacturing to reduce the rework costs and ensure a better product for customer.<br>
 **Text Analysis**: Created a dataset from unstructured data of annual reports of 25 companies which is extracted with Python Scripts and performed data preprocessing.<br>
-**Data Science Programming**: showcases the work using various ML models performed on classification and regression problems.
+**Data Science Programming**: showcases the work using various ML models performed on classification and regression problems.<br>
+**Movielens**: Executed a comprehensive data warehousing project involving dimensional modeling, Talend ETL for loading 25 million Movielens data into Snowflake, SQL analytics, Tableau visualization, and predictive modeling with Lenskit's Item-Item and ALS algorithms on ratings data. Demonstrated expertise in database design, analytics, and predictive modeling for valuable insights from large datasets.
